@@ -1,2 +1,6 @@
-# Model-Based-Decision-Supporting-Tools-Metropolia-Smart-Public-Transportation-Analytics-Dashboard-
-End-to-End DSS with Interactive Dashboards  Performed ETL processes including data cleaning and transformation. Built interactive dashboards to track operational KPIs. Identified inefficiencies such as overcrowded and underutilised routes. Provided data-driven recommendations to improve operational performance.
+# Model-Based-Decision-Supporting-Tools.
+End-to-End DSS with Interactive Dashboards  
+- Performed ETL processes including data cleaning and transformation.
+- Built interactive dashboards to track operational KPIs.
+- Identified inefficiencies such as overcrowded and underutilised routes.
+- Provided data-driven recommendations to improve operational performance.
